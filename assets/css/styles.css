@@ -461,6 +461,7 @@ footer::after {
 }
 
 .line {
+  white-space: pre;
   overflow: hidden;
   animation: typing 4s normal;
   width: 100%;
